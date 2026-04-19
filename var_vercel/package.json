@@ -1,0 +1,17 @@
+{
+  "name": "dawan-gemini",
+  "version": "1.0.0",
+  "description": "AI Chat - だわん Gemini版",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "keywords": ["ai", "chat", "gemini", "vercel"],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
