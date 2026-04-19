@@ -46,7 +46,7 @@
 ## フォルダ構成
 
 ```
-dawan_gemini/
+dawan_aiKit_gemini/
 ├── var_local/    # ローカル版（PC・家族内利用向け）
 ├── var_vercel/   # Vercel版（インターネット公開向け）
 └── README.md
